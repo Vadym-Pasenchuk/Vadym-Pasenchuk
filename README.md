@@ -13,7 +13,7 @@
 
 ### 📊 Статистика
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vadym-Pasenchuk&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=Vadym-Pasenchuk&theme=radical" alt="GitHub Streak" />
 </div>
 
 ### 📫 Зв'язок
