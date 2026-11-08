@@ -13,7 +13,7 @@
 
 ### Статистика
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Vadym-Pasenchuk&theme=transparent&hide_border=true&border_radius=16&locale=uk&short_numbers=true)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Vadym-Pasenchuk&theme=transparent&hide_border=true&border_radius=16&locale=uk&short_numbers=true)(https://git.io/streak-stats)
 </div>
 
 ### Зв'язок
