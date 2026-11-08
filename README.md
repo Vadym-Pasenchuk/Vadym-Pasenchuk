@@ -8,8 +8,8 @@
 ---
 
 ### 🛠 Що я вивчаю
-![C++](https://img.shields.io/badge/C++)
-![C](https://img.shields.io/badge/C)
+![C++](https://img.shields.io/badge/C++-blue)
+![C](https://img.shields.io/badge/C-blue)
 
 ### 📊 Статистика
 <div align="center">
