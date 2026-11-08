@@ -9,7 +9,7 @@
 
 ### 🛠 Що я вивчаю
 ![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
-![C](https://img.shields.io/badge/C-blue)
+![C](https://img.shields.io/badge/C-blue?style=flat-square)
 
 ### 📊 Статистика
 <div align="center">
