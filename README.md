@@ -7,15 +7,15 @@
 
 ---
 
-### 🛠 Що я вивчаю
+### Що я вивчаю
 ![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
 
-### 📊 Статистика
+### Статистика
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vadym-Pasenchuk&theme=radical" alt="GitHub Streak" />
 </div>
 
-### 📫 Зв'язок
+### Зв'язок
 - Telegram: [@vaad1mkka](https://t.me/vaad1mkka)
 - Email: vadym5923@gmail.com
