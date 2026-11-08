@@ -8,7 +8,7 @@
 ---
 
 ### 🛠 Що я вивчаю
-![C++](https://img.shields.io/badge/C++-blue)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-blue)
 
 ### 📊 Статистика
